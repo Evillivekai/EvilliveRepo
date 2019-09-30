@@ -1,0 +1,25 @@
+{
+  "name": "evilliverepo",
+  "version": "1.0.0",
+  "description": "All Evil in here",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evillivekai/EvilliveRepo.git"
+  },
+  "keywords": [
+    "Robin_Cows"
+  ],
+  "author": "Kai Dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evillivekai/EvilliveRepo/issues"
+  },
+  "homepage": "https://github.com/Evillivekai/EvilliveRepo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
