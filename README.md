@@ -1,2 +1,2 @@
 # EvilliveRepo
-All Evil in here
+Practice cows list
