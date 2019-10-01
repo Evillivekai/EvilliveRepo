@@ -1,5 +1,6 @@
 const db = require('../db');
 
+//table {name:..., description: ...}
 module.exports.get = (callback) => {
   //return all info in cows
   db.query('select * from cows', (err, result) => {
